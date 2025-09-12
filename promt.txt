@@ -1,0 +1,10 @@
+promt:
+The program must have the following basic capabilities:
+Command Loop: The program must execute continuously, waiting for user commands until the user exits.
+Add: The user can type a command to add a new task to the list, such as "add to read chapter 5".
+List: The user can type a command to view all unfinished tasks, displayed sequentially, such as:
+1. Read chapter 5
+2. Go shopping at the supermarket
+3. Exercise
+Remove: The user can type a command to remove tasks from the list, based on the task sequence number, such as "remove 2" (to remove "go shopping at the supermarket").
+Exit: The user can type a command to terminate the program.
