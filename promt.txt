@@ -8,3 +8,4 @@ List: The user can type a command to view all unfinished tasks, displayed sequen
 3. Exercise
 Remove: The user can type a command to remove tasks from the list, based on the task sequence number, such as "remove 2" (to remove "go shopping at the supermarket").
 Exit: The user can type a command to terminate the program.
+ยังทำงานในterminalอยู่ทำให้ไม่น่าใช้งานถ้าpromtให้ดีขึ้นให้สามารถสร้างเเบบที่มีUX\UIได้เเละไม่ต้องพิมพ์คำสั่งเเต่เป็นการกดปุ่มเเทนจะสะดวกกว่านี้เเละมีการเก็บข้อมูลไว้ในฐานข้อมูล
